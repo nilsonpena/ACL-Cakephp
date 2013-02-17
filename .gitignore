@@ -1,0 +1,4 @@
+nbproject/
+.editorconfig
+tmp/*
+Config/database.php
